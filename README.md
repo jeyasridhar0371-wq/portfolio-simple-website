@@ -2,7 +2,7 @@
 
 ### 📌 Portfolio Website
 
-This is a simple personal portfolio website built using **HTML** and **CSS**. It consists of two main pages: a **Home page** and a **Contact page**, designed with a clean and minimal layout.
+This is a simple personal portfolio website built using **HTML** and **CSS**. It consists of two main pages is a "Home page" and a "Contact page", designed with a clean and minimal layout.
 
 The project focuses on practicing core front-end development skills by creating a structured and visually appealing website without using any frameworks or JavaScript.
 
